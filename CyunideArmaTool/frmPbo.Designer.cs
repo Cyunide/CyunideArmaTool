@@ -106,6 +106,8 @@
             this.Controls.Add(this.txtFolderPath);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
             this.Name = "frmPbo";
             this.Text = "Add PBO Pack Command";
             this.Load += new System.EventHandler(this.frmPbo_Load);

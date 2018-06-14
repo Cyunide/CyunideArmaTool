@@ -8,3 +8,4 @@ H:\$_ARMA\CyunideArmaTool\CyunideArmaTool\CyunideArmaTool\obj\Debug\CyunideArmaT
 H:\$_ARMA\CyunideArmaTool\CyunideArmaTool\CyunideArmaTool\obj\Debug\CyunideArmaTool.exe
 H:\$_ARMA\CyunideArmaTool\CyunideArmaTool\CyunideArmaTool\obj\Debug\CyunideArmaTool.pdb
 H:\$_ARMA\CyunideArmaTool\CyunideArmaTool\CyunideArmaTool\obj\Debug\CyunideArmaTool.frmPbo.resources
+H:\$_ARMA\CyunideArmaTool\CyunideArmaTool\CyunideArmaTool\obj\Debug\CyunideArmaTool.frmDelete.resources

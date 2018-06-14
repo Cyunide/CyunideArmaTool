@@ -81,7 +81,8 @@ namespace CyunideArmaTool {
         }
 
         private void btnAddDeletes_Click(object sender, EventArgs e) {
-            Log("asdfadsf");
+            frmDelete fd = new frmDelete(this);
+            fd.Show();
         }
     }
 }
