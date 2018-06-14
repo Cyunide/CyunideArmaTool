@@ -19,3 +19,7 @@ Essentially its like a batch file that allows you to click a single button to co
 ## Whats included?
 
 The program itself as well as the source code. This project was written in C# using Visual Studio.
+
+## Make a Donation!
+
+If you would like to support the developer, or say thank you, you can do so at http://paypal.me/cyunide
