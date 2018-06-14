@@ -9,7 +9,13 @@ This is a simple but powerful tool for Arma Developers. How many times have you 
 * Delete files (Such as old .rpts, etc) automatically.
 * Copy files automatically.
 * Control your command line parameters for your Arma Server.
+* Auto saving, so you dont have to set it up again on reopen!
+* of course, MORE!
 
 ## How it works
 
 Essentially its like a batch file that allows you to click a single button to complete a task list and launch your Arma server.
+
+## Whats included?
+
+The program itself as well as the source code. This project was written in C# using Visual Studio.
